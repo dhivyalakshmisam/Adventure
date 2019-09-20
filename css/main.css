@@ -2476,39 +2476,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 24px;
 }
 
-.video-area {
-  padding: 200px 0 60px 0;
-  position: relative;
-  background: url(../img/video-bg.jpg) no-repeat center center/cover;
-}
-
-.video-area .overlay-bg {
-  opacity: .6;
-}
-
-.video-area .video-content a {
-  display: inline-block;
-  margin-bottom: 20px;
-}
-
-.video-area .video-content h3 {
-  font-weight: 600;
-  font-size: 18px;
-  margin-bottom: 10px;
-  letter-spacing: 2px;
-}
-
-.video-area .video-content h4 {
-  font-weight: 300;
-  font-size: 14px;
-}
-
-.video-area .video-content .video-desc {
-  margin-top: 120px;
-  text-align: right;
-  align-self: flex-end;
-}
-
 .single-contact-info {
   text-align: center;
 }
@@ -2535,11 +2502,6 @@ h1, h2, h3, h4, h5, h6 {
 .form-area textarea {
   height: 180px;
   margin-top: 0px;
-}
-
-.footer-area {
-  padding-top: 100px;
-  background-color: #222222;
 }
 
 h6 {
