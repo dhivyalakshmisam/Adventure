@@ -4,6 +4,14 @@
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
+ span#special-text{
+    font-size: x-large;
+    color: blue;
+    font-style: bold;
+}
+
 @media print {
   *,
   *::before,
