@@ -50,6 +50,11 @@ img.finzy-process-img {
   width: 65%;
 }
 
+.navbar-brand1{
+  float: right;
+  margin: 10px;
+}
+
 @media print {
   *,
   *::before,
