@@ -5,11 +5,20 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-
+img.banner-logo{
+  display: block;
+  /*max-width: 20%;*/
+  width: 50%;
+  max-width: 15%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
  span#special-text{
     font-size: large;
     color: blue;
     font-style: bold;
+}
 }
 
 .button1 {
